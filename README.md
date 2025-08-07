@@ -1,7 +1,7 @@
-[![MasterHead](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDBpdG15TzRlbENvVEcxX1FuZnpaR0pQX2IwZ3xBQ3Jtc0trVVQ3YTBQTEZfWm5YOHVFd0h3c1JFRUdXQWdZbDVfZzI2bmRiM3NnWDVyWUhaVHREWUl0RzJVS21IRDBUMkticTBlckpxaUxFclNOQzNGWEVrV3RET0JLTzJPOC1NNFM2TWkzRHlTa05TTmxLcTItMA&q=https%3A%2F%2F1.bp.blogspot.com%2F-7A4WynwLsMw%2FXbBpCXG8fHI%2FAAAAAAAAMt4%2FuOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ%2Fs1600%2F2000_600px.gif&v=G-EGDH50hGE)](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVl1dnByanBES20wT084MVU0aXB3b2h2el80d3xBQ3Jtc0traHVJejBUUnZrQS1DYldPRWxGMHV4alNJejNDZlB0V183QlBlY0hRcUhNZjUwdEhJUERGUWdCMExhM3g5NUo1dW9sMjBYR2ZmaFlWcWRlNTJiNk5Ua2VXVHJ2VUc3Q0pMeVFqd0YxVmdhUE0yWGxpVQ&q=https%3A%2F%2Frishavchanda.io%2F&v=G-EGDH50hGE)
+
 <h1 align="center">Hi 👋, I'm Devansh Srivastava</h1>
 <h3 align="center">A passionate developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVJuc2hUbDdLOEhHcnVEMm9wMGZxeHhsRUlBd3xBQ3Jtc0tuSzFUSWxKWFEwelJTbW5za1RIdlNKVE9YdzYwNmxKd1hUYXJOaUxFQjhzeGtuNkVxVGpEUE4wYzZZWmNQNVRFdnZWU3ZtQjIyQ2ZyQXJLTW9xczg5SmtCZnZPZUZNaTN1Wl9OSHBtRG5HQ3NzN2p5NA&q=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&v=G-EGDH50hGE"
+<img align="right" alt="Coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVJuc2hUbDdLOEhHcnVEMm9wMGZxeHhsRUlBd3xBQ3Jtc0tuSzFUSWxKWFEwelJTbW5za1RIdlNKVE9YdzYwNmxKd1hUYXJOaUxFQjhzeGtuNkVxVGpEUE4wYzZZWmNQNVRFdnZWU3ZtQjIyQ2ZyQXJLTW9xczg5SmtCZnZPZUZNaTN1Wl9OSHBtRG5HQ3NzN2p5NA&q=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&v=G-EGDH50hGE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rollnoone&label=Profile%20views&color=0e75b6&style=flat" alt="rollnoone" /> </p>
 
